@@ -1,0 +1,125 @@
+Title,IMDb Rating,Votes,Genres,Year
+Cowboy Bebop,8.9,150162.0,"Animation, Action, Adventure, Comedy, Drama, Sci-Fi",1998.0
+Attack on Titan,9.1,583519.0,"Animation, Action, Adventure, Drama, Fantasy, Horror",2013.0
+Final Fantasy VII Rebirth,9.1,1418.0,"Action, Adventure, Drama, Fantasy, Sci-Fi",2024.0
+Ne Zha 2,8.3,1540.0,"Animation, Drama, Fantasy",2025.0
+Joker,8.3,1585188.0,"Crime, Drama, Thriller",2019.0
+Deadpool & Wolverine,7.6,464998.0,"Action, Adventure, Comedy, Sci-Fi",2024.0
+Deadpool 2,7.6,701977.0,"Action, Adventure, Comedy, Sci-Fi",2018.0
+The Dark Knight,9.0,2982222.0,"Action, Crime, Drama, Thriller",2008.0
+The Dark Knight Rises,8.4,1892448.0,"Action, Drama, Thriller",2012.0
+Scarface,8.3,952065.0,"Crime, Drama",1983.0
+A Clockwork Orange,8.2,904125.0,"Crime, Sci-Fi",1971.0
+Taxi Driver,8.2,965002.0,"Crime, Drama",1976.0
+The Godfather,9.2,2096477.0,"Crime, Drama",1972.0
+The Godfather Part II,9.0,1412940.0,"Crime, Drama",1974.0
+Unforgiven,8.2,448989.0,"Drama, Western",1992.0
+Fight Club,8.8,2428586.0,Drama,1999.0
+Goodfellas,8.7,1308099.0,"Biography, Crime, Drama",1990.0
+Pulp Fiction,8.9,2303640.0,"Crime, Drama",1994.0
+The Usual Suspects,8.5,1178633.0,"Crime, Drama, Mystery, Thriller",1995.0
+V for Vendetta,8.1,1206686.0,"Action, Drama, Sci-Fi, Thriller",2005.0
+John Wick,7.4,770014.0,"Action, Crime, Thriller",2014.0
+The Punisher,8.4,277715.0,"Action, Crime, Drama, Thriller",2017.0
+Logan,8.1,878561.0,"Action, Drama, Sci-Fi, Thriller",2017.0
+Venom: The Last Dance,6.0,92812.0,"Action, Adventure, Sci-Fi, Thriller",2024.0
+Watchmen,7.6,594362.0,"Action, Drama, Mystery, Sci-Fi",2009.0
+Dune: Prophecy,7.3,45327.0,"Action, Adventure, Drama, Sci-Fi",2024.0
+Mad Max: Fury Road,8.1,1152625.0,"Action, Adventure, Sci-Fi, Thriller",2015.0
+Blade Runner,8.1,846638.0,"Action, Drama, Sci-Fi, Thriller",1982.0
+Blade Runner 2049,8.0,702761.0,"Action, Drama, Mystery, Sci-Fi, Thriller",2017.0
+The Matrix,8.7,2130544.0,"Action, Sci-Fi",1999.0
+The Crow,4.7,30040.0,"Action, Crime, Fantasy, Horror, Romance, Thriller",2024.0
+Star Wars: Episode III - Revenge of the Sith,7.6,870361.0,"Action, Adventure, Fantasy, Sci-Fi",2005.0
+The Wolf of Wall Street,8.2,1659167.0,"Biography, Comedy, Crime, Drama",2013.0
+No Country for Old Men,8.2,1106742.0,"Crime, Drama, Thriller",2007.0
+American Psycho,7.6,764947.0,"Crime, Drama, Horror",2000.0
+The Suicide Squad,7.2,427799.0,"Action, Adventure, Comedy, Sci-Fi",2021.0
+Sin City,8.0,803953.0,"Crime, Thriller",2005.0
+Drive,7.8,728855.0,"Action, Drama",2011.0
+The Revenant,8.0,902268.0,"Action, Adventure, Drama, Western",2015.0
+The Hateful Eight,7.8,684134.0,"Crime, Drama, Mystery, Thriller, Western",2015.0
+Nightcrawler,7.8,629504.0,"Crime, Drama, Thriller",2014.0
+The Equalizer,5.6,18655.0,"Action, Crime, Drama, Mystery, Thriller",2021.0
+Gangs of New York,7.5,484825.0,"Crime, Drama",2002.0
+Léon: The Professional,8.5,1289854.0,"Action, Crime, Drama, Thriller",1994.0
+Hellboy,6.9,359173.0,"Action, Adventure, Fantasy, Horror, Sci-Fi",2004.0
+THE DOLLARS / THE MAN WITH NO NAME TRILOGY,,,,2024.0
+300,7.6,884380.0,"Action, Drama",2006.0
+The Devil's Rejects,6.7,108158.0,"Crime, Drama, Horror, Western",2005.0
+Natural Born Killers,7.2,258226.0,"Crime, Romance",1994.0
+Breaking Bad,9.5,2279755.0,"Crime, Drama, Thriller",2008.0
+Better Call Saul,9.0,709889.0,"Crime, Drama",2015.0
+Peaky Blinders,8.7,696882.0,"Crime, Drama",2013.0
+The Sopranos,9.2,511649.0,"Crime, Drama",1999.0
+Dexter,8.6,823406.0,"Crime, Drama, Mystery, Thriller",2006.0
+House of Cards,8.6,543219.0,Drama,2013.0
+Sons of Anarchy,8.5,336285.0,"Crime, Drama, Thriller",2008.0
+The Boys,8.7,754701.0,"Action, Comedy, Crime, Drama, Sci-Fi",2019.0
+Rick and Morty,9.1,637435.0,"Animation, Adventure, Comedy, Sci-Fi",2013.0
+BoJack Horseman,8.8,205271.0,"Animation, Comedy, Drama",2014.0
+Narcos,8.7,493638.0,"Biography, Crime, Drama, Thriller",2015.0
+True Detective,8.9,690415.0,"Crime, Drama, Mystery, Thriller",2014.0
+Westworld,8.5,544722.0,"Drama, Mystery, Sci-Fi",2016.0
+Hannibal,8.5,288106.0,"Crime, Drama, Horror, Mystery, Thriller",2013.0
+Luther,8.4,158153.0,"Crime, Drama, Mystery, Thriller",2010.0
+The Shield,8.7,91999.0,"Crime, Drama, Thriller",2002.0
+Tokyo Vice,8.1,51808.0,"Crime, Drama, Thriller",2022.0
+Ozark,8.5,364595.0,"Crime, Drama, Thriller",2017.0
+The Mandalorian,8.6,614837.0,"Action, Adventure, Fantasy, Sci-Fi",2019.0
+The Witcher,7.9,589945.0,"Action, Adventure, Drama, Fantasy, Mystery",2019.0
+Grand Theft Auto V,9.5,76632.0,"Action, Comedy, Crime, Drama",2013.0
+Grand Theft Auto IV,8.9,39513.0,"Action, Crime, Drama",2008.0
+Red Dead Redemption,,,Western,
+Red Dead Redemption 2: The Modded Wacky West,9.0,39.0,"Short, Adventure, Comedy, Drama, Thriller, Western",2020.0
+Cyberpunk 2077,8.5,17582.0,"Action, Crime, Drama, Mystery, Sci-Fi, Thriller",2020.0
+The Witcher 3: Wild Hunt - A Night to Remember,9.7,4262.0,"Short, Action, Adventure, Mystery",2015.0
+Metal Gear Solid V: The Phantom Pain,8.7,8992.0,"Action, Adventure, Drama, Mystery, Sci-Fi, Thriller, War",2015.0
+Hitman,6.2,182140.0,"Action, Crime, Thriller",2007.0
+The Last of Us,8.7,604940.0,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",2023.0
+The Last of Us: Part II,8.8,45397.0,"Action, Adventure, Drama, Horror, Romance, Sci-Fi, Thriller",2020.0
+Sick Series: Assassin's Creed,,,,2017.0
+God of War,,,"Action, Adventure, Drama, Fantasy, War",
+Spec Ops: The Line,8.4,4294.0,"Action, Drama, Horror, Mystery, Thriller, War",2012.0
+Dark Souls,4.6,2222.0,"Horror, Thriller",2010.0
+Bloodborne,9.3,8442.0,"Action, Adventure, Fantasy, History, Horror, Sci-Fi, War",2015.0
+Dishonored,7.2,3337.0,"Drama, Romance, War",1931.0
+Far Cry 3,8.8,22878.0,"Action, Adventure, Crime, Drama, Thriller",2012.0
+Far Cry 4,8.0,11950.0,"Action, Adventure, Crime, Drama, Thriller",2014.0
+Far Cry 5: Inside Eden's Gate,5.4,782.0,"Short, Drama, Mystery, Thriller",2018.0
+Far Cry 6,7.2,4355.0,"Action, Adventure, Crime, Drama, Thriller",2021.0
+Max Payne,5.3,131670.0,"Action, Crime, Drama, Mystery, Thriller",2008.0
+BioShock - IMDb,,,"Action, Adventure, Horror, Mystery, Sci-Fi, Thriller",
+Resident Evil 4,9.3,7120.0,"Action, Adventure, Drama, Fantasy, Horror, Mystery, Sci-Fi",2023.0
+Resident Evil Village,8.6,8596.0,"Action, Adventure, Drama, Fantasy, Horror, Sci-Fi",2021.0
+Shadow of the Colossus - IMDb,,,"Adventure, Fantasy",
+Kabuki CHAUD! Yakuza: Like a Dragon (Series X) Découverte par Benzaie!,,,"Comedy, Fantasy, Game-Show, Sci-Fi, Talk-Show",2020.0
+Watch Dogs - IMDb,,,"Action, Drama",
+The Evil Within,,,"Horror, Thriller",2025.0
+The Prototype,2.3,45075.0,"Action, Sci-Fi, Thriller",2022.0
+Saints Row,5.0,1181.0,"Action, Comedy, Crime",2022.0
+Batman Arkham Series,,,,2020.0
+Death Note,8.9,412094.0,"Animation, Crime, Drama, Fantasy, Mystery, Thriller",2006.0
+Attack on Titan,9.1,583519.0,"Animation, Action, Adventure, Drama, Fantasy, Horror",2013.0
+Code Geass,8.7,88012.0,"Animation, Action, Drama, Fantasy, Sci-Fi, Thriller",2006.0
+Tokyo Ghoul,7.7,70805.0,"Animation, Action, Drama, Fantasy, Horror, Thriller",2014.0
+Vinland Saga,8.8,92051.0,"Animation, Action, Adventure, Drama, History",2019.0
+Cowboy Bebop,8.9,150162.0,"Animation, Action, Adventure, Comedy, Drama, Sci-Fi",1998.0
+Samurai Champloo,8.5,58589.0,"Animation, Action, Adventure, Comedy, Drama, Thriller",2004.0
+Black Lagoon,7.9,19127.0,"Animation, Action, Adventure, Crime, Drama, Thriller",2006.0
+Monster,8.7,53826.0,"Animation, Crime, Drama, Mystery, Thriller",2004.0
+Psycho-Pass,8.1,23782.0,"Animation, Action, Crime, Mystery, Sci-Fi, Thriller",2012.0
+JoJo's Bizarre Adventure,8.5,40586.0,"Animation, Action, Adventure, Comedy, Drama, Fantasy, Horror",2012.0
+Akame ga Kill!,7.8,32859.0,"Animation, Action, Comedy, Drama, Fantasy, Thriller",2014.0
+Hellsing,7.7,19175.0,"Animation, Action, Fantasy, Horror",2001.0
+Berserk,8.7,62731.0,"Animation, Action, Adventure, Drama, Fantasy, Horror, Romance",1997.0
+Parasyte: The Maxim,8.3,53941.0,"Animation, Action, Drama, Horror, Sci-Fi, Thriller",2014.0
+Devilman: Crybaby,7.6,31257.0,"Animation, Action, Drama, Fantasy, Horror",2018.0
+Trigun,8.2,25098.0,"Animation, Action, Adventure, Comedy, Drama, Sci-Fi",1998.0
+Chainsaw Man,8.3,70122.0,"Animation, Action, Comedy",2022.0
+The Rising of the Shield Hero,7.8,19411.0,"Animation, Action, Adventure, Comedy, Drama, Fantasy, Romance",2019.0
+Re: Zero - Starting Life in Another World,8.1,29927.0,"Animation, Adventure, Drama, Fantasy, Horror, Mystery, Romance, Thriller",2016.0
+One Outs,8.2,2031.0,"Animation, Drama, Sport",2008.0
+Drifters,7.6,4201.0,"Animation, Action, Adventure, Fantasy",2016.0
+Gantz,7.1,9050.0,"Animation, Action, Drama, Fantasy, Horror, Sci-Fi",2004.0
+91 Days,7.6,6133.0,"Animation, Crime, Drama, History, Thriller",2016.0

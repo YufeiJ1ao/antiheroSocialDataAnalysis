@@ -1,3 +1,5 @@
+![Anti-Hero Sentiment DNA cover](./assets/antihero-sentiment-dna.png)
+
 # The Rise of Anti-Heroes: A Data-Driven Analysis
 **Critical Data Group 1** | 2025 
 ---

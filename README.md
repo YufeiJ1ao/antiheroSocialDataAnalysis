@@ -1,4 +1,4 @@
-![Anti-Hero Sentiment DNA cover](./assets/antihero-sentiment-dna.png)
+![Anti-Hero Sentiment DNA cover](https://raw.githubusercontent.com/YufeiJ1ao/antiheroSocialDataAnalysis/main/assets/antihero-sentiment-dna.png)
 
 # The Rise of Anti-Heroes: A Data-Driven Analysis
 **Critical Data Group 1** | 2025 
